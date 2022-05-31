@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "login": "ivanov",
+      "family_name": "Иванов",
+      "first_name": "Иван",
+      "middle_name": "Иванович",
+      "email": "ivanov@test.ru",
+      "phone": "70000000001",
+      "password": "123456",
+      "secret_word": "ИвановИ",
+      "created_at": "2022-05-30T16:56:51.000000Z",
+      "updated_at": "2022-05-30T16:56:51.000000Z"
+    },
+    {
+      "id": 2,
+      "login": "petrov",
+      "family_name": "Петров",
+      "first_name": "Петр",
+      "middle_name": "Петрович",
+      "email": "petrov@test.ru",
+      "phone": "70000000002",
+      "password": "1234567",
+      "secret_word": "ПетровП",
+      "created_at": "2022-05-30T16:56:51.000000Z",
+      "updated_at": "2022-05-30T16:56:51.000000Z"
+    },
+    {
+      "id": 3,
+      "login": "sidorov",
+      "family_name": "Сидоров",
+      "first_name": "Сидр",
+      "middle_name": "Сидорович",
+      "email": "sidorov@test.ru",
+      "phone": "70000000003",
+      "password": "12345678",
+      "secret_word": "СидоровС",
+      "created_at": "2022-05-30T16:56:51.000000Z",
+      "updated_at": "2022-05-30T16:56:51.000000Z"
+    }
+  ]
+}
